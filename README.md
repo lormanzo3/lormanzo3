@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lorenzo</h1>
-<h3 align="center">I am a software developer from the Netherlands with a background in chemistry. I have graduated from Le Wagon Tokyo just recently. Here I built real applications using ruby on rails and gained experience working in a team.</h3>
+<h3 align="center">I am a Software Developer from the Netherlands with a background in chemistry. I have graduated from Le Wagon Tokyo just recently. Here I built real applications using ruby on rails and gained experience working in a team.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
