@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lorenzo</h1>
-<h3 align="center">A software developer from the Netherlands</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lormanzo3" alt="lormanzo3" /></a> </p>
+<h3 align="center">I am a software developer from the Netherlands with a background in chemistry. I have graduated from Le Wagon Tokyo just recently. Here I built real applications using ruby on rails and gained experience working in a team.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
